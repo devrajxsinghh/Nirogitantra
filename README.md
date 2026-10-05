@@ -1,0 +1,1 @@
+Nirogitantra is an AI-powered telemedicine platform that prioritizes urgent cases, assists doctors with patient history, manages smart Jan Aushadhi inventory, and provides welfare dashboards for disease trends, hospital needs, and medicine shortages.
